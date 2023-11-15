@@ -1,0 +1,13 @@
+      20 cubane.pdb
+      12 ethane.pdb
+       0 head
+       7 lengths.txt
+       9 methane.pdb
+      30 octane.pdb
+      21 pentane.pdb
+      15 propane.pdb
+       0 sort
+       7 sorted-lengths.txt
+       1 testfile01.txt
+       1 testfile02.txt
+     123 total
